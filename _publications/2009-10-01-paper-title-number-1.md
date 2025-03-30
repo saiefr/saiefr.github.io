@@ -1,10 +1,10 @@
 ---
 title: " Pensando paso a paso: IA generativa y su potencial para aprender Derecho"
 collection: publications
-category: Paper
+category: papers
 permalink: https://ucema.edu.ar/sites/default/files/2025-02/Memorias_JJI_2024.pdf
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+date: Oct 2024
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
