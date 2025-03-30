@@ -2,7 +2,6 @@
 title: "Pensando paso a paso: IA generativa y su potencial para aprender Derecho"
 collection: publications
 category: papers
-permalink: /publication/2024-10_paper-jornadas ucema
 date: Oct 2024
 venue: 'MEMORIAS DE LAS PRIMERAS JORNADAS DE JÓVENES INVESTIGADORES Octubre | 2024'
 slidesurl: 'https://saiefr.github.io/files/paper1_slides.pdf'
