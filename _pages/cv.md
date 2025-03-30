@@ -11,27 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Law Degree, Universidad del CEMA, Buenos Aires (2021 – Present)
+* LegalFintech, Universidad del CEMA (2024)
+* Finance for Lawyers, Universidad del CEMA (2024)
+* Prevention of Money Laundering, Universidad del CEMA (2024)
+* Corporate Lawyers, Universidad del CEMA (2023)
 
-Work experience
+Others
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Law Club Member, UCEMA (2022 – Present)
+  * Organized club events and participated in club podcast.
+  * Skills: Communication, Public Speaking, Organization.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Collaborator, 2nd Fundraising Dinner "Planta Bandera", UCEMA (August 2023)
+  * Promoted the event, shared scholarship testimonial, assisted in event organization and gift preparation.
+  * Skills: Communication, Teamwork.
   
+Training & Workshops
+
+
 Skills
 ======
 * Skill 1
