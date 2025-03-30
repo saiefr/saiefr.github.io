@@ -28,16 +28,22 @@ Others
   * Skills: Communication, Teamwork.
   
 Training & Workshops
-
+======
+* Learning How to Learn: Powerful mental tools to help you master tough subjects, Coursera (March, 2025)
+* GenAI Search and Conversation, Google Cloud Skills Boost (March, 2025)
+* Prompting 2.0, Legal Design School (March 2025)
+* Cybersecurity Bootcamp, Deloitte (October, 2024)
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
+* Languages:
+  * Spanish (Native)
+  * English (Intermediate)
   * Sub-skill 2.3
-* Skill 3
+* Tools:
+  * Thomson Reuters Legal Database
+  * Microsoft Office (Word, PowerPoint)
+  * Canva
 
 Publications
 ======
@@ -57,6 +63,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
