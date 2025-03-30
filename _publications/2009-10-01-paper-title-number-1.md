@@ -3,8 +3,8 @@ title: " Pensando paso a paso: IA generativa y su potencial para aprender Derech
 collection: publications
 category: papers
 date: Oct 2024
-venue: 'MEMORIAS DE LAS PRIMERAS JORNADAS DE JÓVENES INVESTIGADORES'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+venue: 'MEMORIAS DE LAS PRIMERAS JORNADAS DE JÓVENES INVESTIGADORES Octubre | 2024'
+slidesurl: 'http://academicpages.github.io/files/paper1_slides.pdf'
 paperurl: 'https://ucema.edu.ar/sites/default/files/2025-02/Memorias_JJI_2024.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
