@@ -16,6 +16,13 @@ Education
 * Finance for Lawyers, Universidad del CEMA (2024)
 * Prevention of Money Laundering, Universidad del CEMA (2024)
 * Corporate Lawyers, Universidad del CEMA (2023)
+  
+Training & Workshops
+======
+* Learning How to Learn: Powerful mental tools to help you master tough subjects, Coursera (March, 2025)
+* GenAI Search and Conversation, Google Cloud Skills Boost (March, 2025)
+* Prompting 2.0, Legal Design School (March 2025)
+* Cybersecurity Bootcamp, Deloitte (October, 2024)
 
 Others
 ======
@@ -26,13 +33,6 @@ Others
 * Collaborator, 2nd Fundraising Dinner "Planta Bandera", UCEMA (August 2023)
   * Promoted the event, shared scholarship testimonial, assisted in event organization and gift preparation.
   * Skills: Communication, Teamwork.
-  
-Training & Workshops
-======
-* Learning How to Learn: Powerful mental tools to help you master tough subjects, Coursera (March, 2025)
-* GenAI Search and Conversation, Google Cloud Skills Boost (March, 2025)
-* Prompting 2.0, Legal Design School (March 2025)
-* Cybersecurity Bootcamp, Deloitte (October, 2024)
 
 Skills
 ======
