@@ -39,11 +39,12 @@ Skills
 * Languages:
   * Spanish (Native)
   * English (Intermediate)
-  * Sub-skill 2.3
 * Tools:
   * Thomson Reuters Legal Database
   * Microsoft Office (Word, PowerPoint)
   * Canva
+* GenAI
+ * Google AI Studio 
 
 Publications
 ======
