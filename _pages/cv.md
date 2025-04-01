@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-**Law Degree (Abogacía)** | University of CEMA (UCEMA), Buenos Aires | 2021 – Estimated Graduation 2025 
-**Executive Program in LegalFinTech** | UCEMA | 2024
-**Diploma in Finance for Lawyers** | UCEMA | 2024
-**Diploma in Anti-Money Laundering Prevention** | UCEMA | 2024
-**Diploma in Corporate Lawyers** | UCEMA | 2023
+* Law Degree | University of CEMA (UCEMA), Buenos Aires | 2021 – Estimated Graduation 2025 
+* Executive Program in LegalFinTech** | UCEMA | 2024
+* Diploma in Finance for Lawyers | UCEMA | 2024
+* Diploma in Anti-Money Laundering Prevention | UCEMA | 2024
+* Diploma in Corporate Lawyers | UCEMA | 2023
 
   
 Training & Workshops
@@ -40,6 +40,7 @@ Relevant Experience
 *Collaborator (Volunteer Event Support)* | August 2023
 *   Assisted in the logistical organization and promotion of the fundraising event, working effectively within a team under pressure.
 *   Demonstrated initiative and strong interpersonal skills interacting with donors and attendees to support event objectives.
+
 Skills
 ======
 * Languages:
