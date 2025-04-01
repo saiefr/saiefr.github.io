@@ -11,4 +11,3 @@ An AI-powered prompt that applies Rosenshine's evidence-based instructional prin
 - Evaluate AI outputs
 - Simplify prompt 
 
-link to project: 
