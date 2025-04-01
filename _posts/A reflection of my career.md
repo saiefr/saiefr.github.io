@@ -1,5 +1,5 @@
 ---
-title: 'A reflection of my career'
+title: "A reflection of my career"
 date: 2025-04-01
 permalink: /posts/2012/08/blog-post-1/
 tags:
