@@ -1,7 +1,7 @@
 ---
-title: 'Prompting ideas'
+title: ' Prompting ideas '
 date: 2025-04-01
-permalink: /posts/2025/04/blog-post-2/
+permalink: /posts/2025/04/Prompting ideas/
 tags:
   - cool posts
   - category1
