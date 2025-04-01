@@ -11,40 +11,42 @@ redirect_from:
 
 Education
 ======
-* Law Degree, Universidad del CEMA, Buenos Aires (2021 – Present)
-* LegalFintech, Universidad del CEMA (2024)
-* Finance for Lawyers, Universidad del CEMA (2024)
-* Prevention of Money Laundering, Universidad del CEMA (2024)
-* Corporate Lawyers, Universidad del CEMA (2023)
+**Law Degree (Abogacía)** | University of CEMA (UCEMA), Buenos Aires | 2021 – Estimated Graduation 2025 
+**Executive Program in LegalFinTech** | UCEMA | 2024
+**Diploma in Finance for Lawyers** | UCEMA | 2024
+**Diploma in Anti-Money Laundering Prevention** | UCEMA | 2024
+**Diploma in Corporate Lawyers** | UCEMA | 2023
+
   
 Training & Workshops
 ======
-* Learning How to Learn: Powerful mental tools to help you master tough subjects, Coursera (March, 2025)
-* GenAI Search and Conversation, Google Cloud Skills Boost (March, 2025)
-* Prompting 2.0, Legal Design School (March 2025)
-* Cybersecurity Bootcamp, Deloitte (October, 2024)
+*   Learning How to Learn: Powerful mental tools | Deep Teaching Solutions | March 2025
+*   Storytelling for Legal Professionals; Prompting 2.0 | Legal Design School | March 2025
+*   GenAI Search and Conversation | Google Cloud | March 2025
+*   AI's AI Engineer Webinar | Abacus.ai | October 2024
+*   Introduction to Cybersecurity Bootcamp | Deloitte | October 2024
+*   Student Meeting Towards the XXIX National Conference of Civil Law | Univ. Austral | April 2024
+*   VI International Arbitration Conference | UCEMA | November 2023
 
-Others
+Relevant Experience
 ======
-* Law Club Member, UCEMA (2022 – Present)
-  * Organized club events and participated in club podcast.
-  * Skills: Communication, Public Speaking, Organization.
+**Law Club, UCEMA** | Buenos Aires
+*Member* | 2022 – Present
+*   Developed and produced content for the club's podcast, enhancing communication skills and promoting legal discussions.
+*   Coordinated logistics and communications for club events (seminars, debates).
+*   Provided administrative support, including disseminating activity information to members.
 
-* Collaborator, 2nd Fundraising Dinner "Planta Bandera", UCEMA (August 2023)
-  * Promoted the event, shared scholarship testimonial, assisted in event organization and gift preparation.
-  * Skills: Communication, Teamwork.
-
+**2nd Fundraising Dinner "Planta Bandera", UCEMA** | Buenos Aires
+*Collaborator (Volunteer Event Support)* | August 2023
+*   Assisted in the logistical organization and promotion of the fundraising event, working effectively within a team under pressure.
+*   Demonstrated initiative and strong interpersonal skills interacting with donors and attendees to support event objectives.
 Skills
 ======
 * Languages:
   * Spanish (Native)
   * English (Intermediate)
-* Tools:
-  * Thomson Reuters Legal Database
-  * Microsoft Office (Word, PowerPoint)
-  * Canva
-* GenAI
- * Google AI Studio 
+*   **IT & Technical:** Microsoft Office Suite, Canva, Generative AI (Google AI Studio, ChatGPT 3.5, Claude 3.5), Google Cloud (GenAI Search & Conversation).
+*   **LegalTech & Databases:** Thomson Reuters (Legal database management).
 
 Publications
 ======
