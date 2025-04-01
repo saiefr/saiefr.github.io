@@ -14,7 +14,7 @@ main:
       # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Projects"
+  - title: "Portfolio"
     url: /portfolio/
 
   - title: "Publications"
