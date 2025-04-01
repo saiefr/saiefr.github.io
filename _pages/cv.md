@@ -31,12 +31,14 @@ Training & Workshops
 Relevant Experience
 ======
 **Law Club, UCEMA** | Buenos Aires
+
 *Member* | 2022 – Present
 *   Developed and produced content for the club's podcast, enhancing communication skills and promoting legal discussions.
 *   Coordinated logistics and communications for club events (seminars, debates).
 *   Provided administrative support, including disseminating activity information to members.
 
 **2nd Fundraising Dinner "Planta Bandera", UCEMA** | Buenos Aires
+
 *Collaborator (Volunteer Event Support)* | August 2023
 *   Assisted in the logistical organization and promotion of the fundraising event, working effectively within a team under pressure.
 *   Demonstrated initiative and strong interpersonal skills interacting with donors and attendees to support event objectives.
