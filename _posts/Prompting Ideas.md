@@ -1,7 +1,7 @@
 ---
 title: 'Prompting ideas '
-date: 2012-08-14
-permalink: /posts/2012/08/blog-post-1/
+date: 2025-04-01
+permalink: /posts/2025/04/blog-post-2/
 tags:
   - cool posts
   - category1
