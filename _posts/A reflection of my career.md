@@ -1,6 +1,6 @@
 ---
-title: 'On learning how to learn '
-date: 2012-08-14
+title: 'A reflection of my career'
+date: 2025-04-01
 permalink: /posts/2012/08/blog-post-1/
 tags:
   - cool posts
